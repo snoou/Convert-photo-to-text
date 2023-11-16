@@ -4,7 +4,7 @@ Convert photo to text using different shapes
 # install 
 ```pip install pywhatkit```
 # input 
-```input.png```
+![octicons cover light](https://raw.githubusercontent.com/snoou/Convert-photo-to-text/main/input.png)
 # output
 ```........:!!!::....::::......:::.......:!!!::..........:!!!!:.......::::....::::.
 .....:$#*****S*..:S***%....:S*#:...!$#*****S@:.....:$#*****S@!....!S**!....&**$.
