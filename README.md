@@ -3,7 +3,8 @@ Convert photo to text using different shapes
 
 # install 
 ```pip install pywhatkit```
-
+# input 
+```input.png```
 # output
 ```........:!!!::....::::......:::.......:!!!::..........:!!!!:.......::::....::::.
 .....:$#*****S*..:S***%....:S*#:...!$#*****S@:.....:$#*****S@!....!S**!....&**$.
